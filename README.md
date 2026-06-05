@@ -1,4 +1,4 @@
-# Gmail Compose Function Testing Assessment
+# Gmail_Compose_Function_Testing_Assessment
 
 Contents:
 1. Traditional Test Cases
@@ -6,4 +6,4 @@ Contents:
 3. Positive and Negative Scenarios
 
 File:
-Gmail_Compose_TestCases.xlsx
+Gmail_Compose_Function_TestCases.xlsx
